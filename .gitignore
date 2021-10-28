@@ -1,3 +1,4 @@
 #Логи
+log/
 log/*
-!/log/mainlog.txt
+!log/mainlog.txt
